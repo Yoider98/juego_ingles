@@ -1,0 +1,52 @@
+[
+    {
+        
+        "pregunta": "¿What day do we start our English course?",
+        "incorrecta1": "Day one",
+        "incorrecta2": "Day eleven",
+        "respuesta": "Day four",
+        "incorrecta3": "Day eight",
+        "imagen": "https://i.ibb.co/yf64sbN/What-number-is-it.png",
+        "objectFit": "cover"
+    },
+    {
+   
+        "pregunta": "¿How many years of experience does our teacher have?",
+        "incorrecta2": "Twenty-three",
+        "incorrecta1": "Twenty-one",
+        "respuesta": "Twenty",
+        "incorrecta3": "Twenty-five",
+        "imagen": "https://i.ibb.co/yf64sbN/What-number-is-it.png",
+        "objectFit": "cover"
+    },
+    {
+      
+        "pregunta": "¿How many students are we?",
+        "incorrecta1": "Twenty-five",
+        "respuesta": "Twenty-seven",
+        "incorrecta2": "Twenty-nine",
+        "incorrecta3": "Twenty-eight",
+        "imagen": "https://i.ibb.co/yf64sbN/What-number-is-it.png",
+        "objectFit": "cover"
+    },
+    {
+        
+        "pregunta": "¿How many weeks are they in class?",
+        "respuesta": "Four",
+        "incorrecta1": "Three",
+        "incorrecta2": "Five",
+        "incorrecta3": "Six",
+        "imagen": "https://i.ibb.co/yf64sbN/What-number-is-it.png"
+    },
+    {
+       
+        "pregunta": "¿How old is Unimag?",
+        "respuesta": "Sixty",
+        "incorrecta1": "Fifty-nine",
+        "incorrecta2": "Sixty-one",
+        "incorrecta3": "Fifty-eight",
+        "imagen": "https://i.ibb.co/yf64sbN/What-number-is-it.png"
+    }
+    
+    
+]
